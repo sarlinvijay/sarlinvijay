@@ -9,10 +9,11 @@ public class SamplePage {
 	
 	@Test
 	private void test() {
-		// TODO Auto-generated method stub
+		System.out.println("vijay");
 
-		
+		System.out.println("test 1");
 	
+		System.out.println("test 2");
 	
 	}
 
